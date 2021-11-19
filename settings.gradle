@@ -1,0 +1,3 @@
+rootProject.name = "GuideHelper"
+include ':app'
+include ':lib'
